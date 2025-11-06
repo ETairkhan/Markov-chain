@@ -1,4 +1,4 @@
-markov-chain
+# markov-chain
 
 Learning Objectives
     Implement the Markov Chain algorithm.
